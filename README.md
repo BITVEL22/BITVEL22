@@ -1,10 +1,8 @@
 <div align="center">
 
-# BITVEL22
-
-**Just a Random Person**
-
-[![GitHub](https://img.shields.io/badge/GitHub-BITVEL22-002b36?style=for-the-badge\&logo=github\&logoColor=ffffff)](https://github.com/BITVEL22)
+<a href="https://github.com/BITVEL22">
+  <img src="https://img.shields.io/badge/BITVEL22-002b36?style=for-the-badge&logo=github&logoColor=ffffff" height="90">
+</a>
 
 </div>
 
@@ -45,11 +43,11 @@ My main interests are:
 
 ## Projects
 
-| Project                                                              | Description                                  |
-| -------------------------------------------------------------------- | -------------------------------------------- |
-| [r/uqny](https://github.com/BITVEL22/r-uqny)                         | Experimental project                         |
-| [YetAnotherLinktree](https://github.com/BITVEL22/YetAnotherLinktree) | A Material You inspired Linktree alternative |
-| **???**                                                              | Coming Soon                                  |
+| Project                                                              | Description                                             |
+| -------------------------------------------------------------------- | ------------------------------------------------------- |
+| [r/uqny](https://github.com/BITVEL22/r-uqny)                         | Experimental project (can't working on it rn bc I'm busy|
+| [YetAnotherLinktree](https://github.com/BITVEL22/YetAnotherLinktree) | A Material You inspired Simple Link Page                |
+| **???**                                                              | Coming Soon                                             |
 
 ## Currently Exploring
 
