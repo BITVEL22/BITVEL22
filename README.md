@@ -14,7 +14,7 @@ I've been using Linux since I started getting into computers, and I enjoy experi
 
 My main interests are:
 
-* Linux & distro hopping
+* Linux
 * Web development
 * AI & AI agents
 * Self-hosting & networking
@@ -31,6 +31,7 @@ My main interests are:
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript1.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch1.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Debian/debian1.svg">
